@@ -2,5 +2,3 @@ Some random song
 bla bla bla
 second part
 bla bla bla
-
-feature brach was added, time to merge
